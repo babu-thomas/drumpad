@@ -3,16 +3,16 @@
     <color name="colorPrimary">#21222c</color>
     <color name="colorPrimaryDark">#21222c</color>
     <color name="colorAccent">#FF4081</color>
-    <!-- blue style gradient -->
+    <!-- Blue style gradient -->
     <color name="bluestartcolor">#47f9fe</color>
     <color name="blueendcolor">#1295fd</color>
-    <!-- orange style gradient -->
+    <!-- Orange style gradient -->
     <color name="orangestartcolor">#feed64</color>
     <color name="orangeendcolor">#dda660</color>
-    <!-- pink style gradient -->
+    <!-- Pink style gradient -->
     <color name="pinkstartcolor">#fd75a5</color>
     <color name="pinkendcolor">#ea1e77</color>
-    <!-- purple style gradient -->
+    <!-- Purple style gradient -->
     <color name="purplestartcolor">#f75fe1</color>
     <color name="purpleendcolor">#c425ec</color>
     <!-- Green style gradient -->
